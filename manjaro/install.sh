@@ -17,7 +17,7 @@ sudo pacman-mirrors --continent && sudo pacman -Syyu;
 
 log_green "\nInstalling yay and downloading packages list"
 sudo pacman -S yay;
-curl https://gist.githubusercontent.com/ddanielcruz/f82506bb392503889d282442804483ba/raw/d320f7f15a549c8877b52cb01e8c6699d622a27e/packages --output packages.txt
+curl https://gist.githubusercontent.com/ddanielcruz/f82506bb392503889d282442804483ba/raw/packages --output packages.txt
 
 log_green "Creating default directories"
 mkdir -p ~/Projects ~/Studies ~/Work;
