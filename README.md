@@ -7,6 +7,7 @@ A collection of scripts I frequently use on my projects or when setting up a new
 ## Scripts
 
 - [Run Mongo with Docker](docker/run-mongo.sh)
+- [Run MySQL with Docker](docker/run-mysql.sh)
 - [Run Postgres with Docker](docker/run-postgres.sh)
 - [Run Redis with Docker](docker/run-redis.sh)
 - [Set up Manjaro](manjaro/install.sh)
