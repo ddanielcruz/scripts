@@ -340,6 +340,7 @@ ASALocalRun/
 
 # Custom
 .env
+**/*.local.env
 
 # Project
 settings.json
